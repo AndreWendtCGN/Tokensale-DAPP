@@ -1,0 +1,14 @@
+# Problemlösung
+
+Die aktuelle Corona Krise trifft die Wirtschaft hart. Dabei stellt traditionelle Kapitalbeschaffung bereits heute eine große Hürde für viele, vor allem auch mittelständische Unternehmen\[A1\]  dar. Denn im Gegensatz zu Großunternehmen sind hohe Kapitaleinlagen im Mittelstand eher selten verfügbar. So liegt der ungedeckte Kapitalbedarf von kleinen bis mittleren Unternehmen nach Schätzungen der Weltbank aktuell zwischen 2,1 und 2,6 Billionen USD **1**. Mit Hinblick auf die aktuelle Wirtschaftskrise ist, wie auch in Folge der Finanzkrise im Jahr 2008, zu erwarten, dass sich der Zugang zu Bankfinanzierungen insbesondere auch für mittelständische Unternehmen weiter verschärft. Ein Problem vor allem auch deshalb, weil 80% des Kreditvolumens im Mittelstand auf Hausbanken entfällt **1a**.
+
+Börsengänge stellen aufgrund der intensiven Vorbereitung, langfristigen Auflagen und der hohen Kosten, nur in wenigen Fällen eine sinnvolle Alternative dar. Der wachsende globale Wettbewerb fordert jedoch schnelle Reaktionen und Flexibilität bei Investitionen. Auch um notwendige, aber kostenintensive Digitalisierungsmaßnahmen zeitnah zum Erhalt der Wettbewerbsfähigkeit umzusetzen.
+
+UnitedCrowd schließt diese Marktlücke mit einer zeitgemäßen Softwareanwendung. Unternehmen sind hiermit in der Lage, Alternativen und Ergänzungen für Ihren Finanzierungsmix eigenständig umzusetzen. Erreicht wird dies durch den Einsatz von Blockchain-Technologie. Sie ermöglicht die Digitalisierung von Werten und denen darin enthaltenen Rechten, die als Tokenisierung bezeichnet wird. Die Vorteile für Unternehmen liegen nicht zuletzt in den geringen bürokratischen Anforderungen und Kosten, der Reduktion von Intermediären und einer Erhöhung der Liquidität.
+
+Die Softwareanwendung beruht auf einem Regelwerk, dem UnitedCrowd Tokenization Framework, mit dem Unternehmen regulationskonforme Finanzprodukte automatisiert auf der Ethereum-Blockchain digitalisieren und an ihre Bedürfnisse anpassen können. Der Anwendungsbereich umfasst verschiedene Tokenisierungsmodelle, die kontinuierlich weiterentwickelt werden. Zudem können auch Sachwerte digitalisiert und fraktionalisiert abgebildet werden.
+
+Um die resultierenden Tokeniserungskampagnen ihren Investoren anzubieten, steht Unternehmen die UnitedCrowd Plattform zur Verfügung. Die Plattform ist mit zahlreichen Funktionen ausgestattet, die ihnen eine einfache Verwaltung ermöglichen und von ihren Investoren benutzerfreundlich angewendet werden können. Für die Verwahrung und den Transfer von Assets steht zusätzlich das UnitedCrowd Custody Wallet zur Verfügung, das über eine Schnittstelle mit der Plattform verbunden ist. Minimum Viable Repeatability \(MVR\) wurde erreicht und das Produkt seitdem fortlaufend erweitert. Zum jetzigen Zeitpunkt liegen zahlreiche Anträge von Unternehmen vor, die an der Nutzung der Softwareanwendung von UnitedCrowd interessiert sind.
+
+![](.gitbook/assets/grafik%20%287%29.png)
+
